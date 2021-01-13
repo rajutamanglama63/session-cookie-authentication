@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lucida Sans", serif;
+}
+
+/* landing page */
+main {
+  margin: 5rem;
+}
+
+/* register page */
+.container {
+  margin: 0 auto;
+  width: 75%;
+}
+.register {
+  text-align: center;
+  margin: 1rem 0;
+}
+.input-field {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  width: 100%;
+}
+.btn {
+  padding: 0.5rem;
+  width: 100%;
+  color: whitesmoke;
+  background-color: rgb(102, 89, 79);
+}
+.btn:hover {
+  background-color: rgb(150, 140, 133);
+  color: rgb(20, 20, 20);
+}
